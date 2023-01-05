@@ -1,0 +1,2 @@
+<footer>kdt 클래스</footer>
+<div>너의 담대한 기관지</div>
